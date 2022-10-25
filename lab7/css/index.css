@@ -1,0 +1,9 @@
+p{color:darkorange;
+font-weight: bold;}
+#callout {
+  background-color: lime;
+  padding: 20x;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
