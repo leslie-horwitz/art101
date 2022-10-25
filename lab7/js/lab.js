@@ -15,13 +15,13 @@
    console.log("nameArray=", nameArray);
    //sort the array
    var nameArraySort = nameArray.sort();
-   console.log ("nameArraySprt =", nameArraySort);
+   console.log ("nameArraySort =", nameArraySort);
    //join array back to string
    var nameSorted = nameArraySort.join ('');
    console.log("nameSorted=", nameSorted);
    //note this coule also be done as userNAme.toLower().split("").sort().join("")
    return nameSorted;
- }
+}
 
  //Output
 document.writeln ("Oh hey, I've fixed your name:",
