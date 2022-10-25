@@ -21,7 +21,8 @@
    console.log("nameSorted=", nameSorted);
    //note this coule also be done as userNAme.toLower().split("").sort().join("")
    return nameSorted;
-}
+ }
+
 
  //Output
 document.writeln ("Oh hey, I've fixed your name:",
